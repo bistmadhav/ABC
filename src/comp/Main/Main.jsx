@@ -22,7 +22,6 @@ const Main = () => {
                     </Grid>
                 </Grid>
             </CardContent>
-
        </Card>
     )
 }
